@@ -1,3 +1,6 @@
+LOTS OF STUFF DELETED FROM PREZTO, YOU PROBABLY DON'T WANT THIS
+===============================================================
+
 Prezto — Instantly Awesome Zsh
 ==============================
 
